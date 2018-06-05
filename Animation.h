@@ -2,6 +2,8 @@
 
 #include <iostream>
 #include <string>
+#include <vector>
+#include <utility>
 
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
@@ -19,11 +21,11 @@ public:
     ~Animation();
 
 private:
-    //vector of intervals between frames
-    std::vector<unsigned> _interval;
-
     //vector of shapes in order to display
     std::vector <sf::Drawable*> _shapes;
+
+    //vector of frames and its duration in order to display
+    std::vector<std::pair<sf::Texture, unsigned >> _frames;
 
     //window that will be displayed
     sf::RenderWindow _window;
