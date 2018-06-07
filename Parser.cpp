@@ -111,6 +111,21 @@ bool Parser::loadNextFrame() {
             };
             renderTexture.draw(line, 2, sf::Lines);
         }
+        if (instruction== "trojkat" || instruction == "tr") {
+            float x1, x2, x3, y1, y2, y3;
+            int f;
+            (((((ss.ignore(256, ' ') >> x1).ignore(256, ' ') >> y1).ignore(256, ' ') >> x2).ignore(256, ' ') >> y2).ignore(256, ' ') >> x3).ignore(256, ' ') >> y3;
+            sf::VertexArray triangle(sf::Triangles, 3);
+            triangle[0].position = sf::Vector2f(x1, y1);
+            triangle[1].position = sf::Vector2f(x2, y2);
+            triangle[2].position = sf::Vector2f(x3, y3);
+
+            triangle[0].color = _colors._fillColor;
+            triangle[1].color = _colors._fillColor;
+            triangle[2].color = _colors._fillColor;
+
+            renderTexture.draw(triangle);
+        }
         if (instruction == "rozmiar_piora" || instruction == "rp" ) {
             float s;
             ss.ignore(256, ' ') >> s;
@@ -129,10 +144,23 @@ bool Parser::loadNextFrame() {
                 circle.setFillColor(_colors._fillColor);
             renderTexture.draw(circle);
         }
+        if (instruction== "obraz" || instruction == "ob") {
+            std::string path;
+            float x, y;
+            ((ss.ignore(256, ' ') >> x).ignore(256, ' ') >> y).ignore(256, ' ') >> path;
+
+            sf::Texture tex;
+            tex.loadFromFile(path);
+
+            sf::Sprite sprite (tex);
+            sprite.setPosition(sf::Vector2f(x, y));
+
+            renderTexture.draw(sprite);
+        }
 
     }
 
-
+    renderTexture.display();
     _frames.emplace_back(renderTexture.getTexture().copyToImage(), timeInterval);
 
     return true;
