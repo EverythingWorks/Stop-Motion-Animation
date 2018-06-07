@@ -1,10 +1,10 @@
 #!/bin/bash
 
 CC = g++
-LIBS = -lsfml-graphics -lsfml-window -lsfml-system
+LIBS = -lsfml-graphics -lsfml-window -lsfml-system -lstdc++fs
 
-animation: main.cpp Animation.cpp
-	$(CC) -o animation main.cpp Animation.cpp $(LIBS)
+animation: *.cpp
+	$(CC) -o animation *.cpp $(LIBS)
 
 
 .PHONY: run

@@ -1,9 +1,8 @@
 #include "Animation.h"
 
 int main() {
-
-    Animation a;
-    a.animate();
-
+    animation::Animation a;
+    a.run();
+    
     return 0;
 }
