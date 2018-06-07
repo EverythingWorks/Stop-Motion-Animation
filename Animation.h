@@ -8,11 +8,13 @@ namespace animation {
 
 class Animation {
 public:
-    Animation() = default;
+    Animation();
     void run();
     virtual ~Animation() {}
 private:
     sf::RenderWindow _window;
+    sf::Text _text;
+    sf::Font _font;
 };
 
 }
