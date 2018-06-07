@@ -2,6 +2,7 @@
 #include <sstream>
 #include <algorithm>
 #include <iostream>
+#include <cmath>
 
 
 namespace animation {
@@ -51,6 +52,7 @@ bool Parser::loadNextFrame() {
             sf::RectangleShape rectangle(sf::Vector2f(x2 - x1, y2 - y1)) ;
             rectangle.setPosition(x1, y1);
             rectangle.setOutlineColor(_colors._outlineColor);
+            rectangle.setOutlineThickness(_colors._outlineThickness);
             if (flag)
                 rectangle.setFillColor(_colors._fillColor);
             renderTexture.draw(rectangle);
@@ -65,16 +67,67 @@ bool Parser::loadNextFrame() {
                 _colors._outlineColor = newColor;            
         }
         if (instruction == "punkt" || instruction == "pt") {
-
+            float x, y;
+            (ss.ignore(256, ' ') >> x).ignore(256, ' ') >> y;
+            sf::Vertex point[] = {sf::Vertex(sf::Vector2f(x, y), _colors._outlineColor)};
+            renderTexture.draw(point, 1, sf::Points);
         }
         if (instruction== "elipsa" || instruction== "el") {
+            float x1, x2, y1, y2;
+            int flag;
+            (((ss.ignore(256, ' ') >> x1).ignore(256, ' ') >> y1).ignore(256, ' ') >> x2).ignore(256, ' ') >> y2;
+            ss.ignore(256, ' ') >> flag;
+
+            float radius_x = (x2 - x1)/2;
+            float radius_y = (y2 - y1)/2;
+            unsigned short quality = 70;
+
+            sf::ConvexShape ellipse;
+            ellipse.setPointCount(quality);
+
+            for(unsigned i=0; i<quality; ++i){
+                float rad = (360/quality*i)/(360/M_PI/2);
+                float x = cos(rad)*radius_x;
+                float y = sin(rad)*radius_y;
+
+                ellipse.setPoint(i,sf::Vector2f(x,y));
+            };
+
+            ellipse.setOutlineColor(_colors._outlineColor);
+
+            if(flag)
+                ellipse.setFillColor(_colors._fillColor);
+
+            ellipse.setPosition(x1 + radius_x, y1 + radius_y);
+            renderTexture.draw(ellipse);
 
         }
         if (instruction== "linia" || instruction == "ln") {
-            
+            float x1, x2, y1, y2;
+            (((ss.ignore(256, ' ') >> x1).ignore(256, ' ') >> y1).ignore(256, ' ') >> x2).ignore(256, ' ') >> y2;
+            sf::Vertex line[] = {
+                    sf::Vertex(sf::Vector2f(x1, y1), _colors._outlineColor),
+                    sf::Vertex(sf::Vector2f(x2, y2), _colors._outlineColor)
+            };
+            renderTexture.draw(line, 2, sf::Lines);
         }
         if (instruction == "rozmiar_piora" || instruction == "rp" ) {
-
+            float s;
+            ss.ignore(256, ' ') >> s;
+            _colors._outlineThickness = s;
+        }
+        if (instruction == "kolo" || instruction == "kl" ) {
+            float x, y, radius;
+            int flag;
+            ((ss.ignore(256, ' ') >> x).ignore(256, ' ') >> y).ignore(256, ' ') >> radius;
+            ss.ignore(256, ' ') >> flag;
+            sf::CircleShape circle (radius);
+            circle.setPosition(x, y);
+            circle.setOutlineColor(_colors._outlineColor);
+            circle.setOutlineThickness(_colors._outlineThickness);
+            if (flag)
+                circle.setFillColor(_colors._fillColor);
+            renderTexture.draw(circle);
         }
 
     }

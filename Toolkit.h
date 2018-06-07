@@ -7,5 +7,6 @@ namespace animation {
         sf::Color _backgroundColor;
         sf::Color _outlineColor;
         sf::Color _fillColor;
+        float _outlineThickness;
     };
 }
