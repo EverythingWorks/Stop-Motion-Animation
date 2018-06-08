@@ -19,11 +19,9 @@ Animation::Animation() {
 }
 
 void Animation::run() {
-    Parser parser {"InputSample2.txt"};
+    Parser parser {"mySample.txt"};
 
-    for (int i {}; parser.loadNextFrame(); ++i) { 
-        std::cout << "line " << i << std::endl;
-    }
+    for (int i {}; parser.loadNextFrame(); ++i) { /* empty */ }
 
     _window.create(sf::VideoMode(parser._config._width, parser._config._height),"Animation",sf::Style::Titlebar | sf::Style::Close);
     sf::FloatRect textRect = _text.getLocalBounds();
@@ -31,14 +29,13 @@ void Animation::run() {
 
     sf::Event event;
     sf::Clock clock;
-    bool play = false;
-
+    bool play {};
 
     while(_window.isOpen()) {
         while (_window.pollEvent(event)) {
             if(event.type == sf::Event::Closed || event.key.code == sf::Keyboard::Escape)
                 _window.close();
-
+        if (event.type == sf::Event::KeyPressed)
             if(event.key.code == sf::Keyboard::Space)
                 play = true;
         }
@@ -68,14 +65,13 @@ void Animation::run() {
 
     }
 
-    if (!fs::is_directory("animation_output") || !fs::exists("animation_output")) { // Check if src folder exists
-        fs::create_directory("animation_output"); // create src folder
-    }
-    int i {};
-    for (const auto & frame : parser._frames) {
-        frame._image.saveToFile("animation_output/" + std::to_string(i) + ".bmp");
-        ++i;
-    }
+    //if (!fs::is_directory("animation_output") || !fs::exists("animation_output"))  // Check if src folder exists
+    //    fs::create_directory("animation_output"); // create src folder
+    //int i {};
+    //for (const auto & frame : parser._frames) {
+    //    frame._image.saveToFile("animation_output/" + std::to_string(i) + ".bmp");
+    //    ++i;
+    //}
 
 }
 

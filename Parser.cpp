@@ -30,8 +30,6 @@ bool Parser::loadNextFrame() {
     renderTexture.create(_config._width, _config._height);
     renderTexture.clear(_colors._backgroundColor);
 
-    std::cout << frameNumber << " " << timeInterval << std::endl;
-
     while(true) {
         if (!std::getline(_input, line))
             return false;
@@ -40,7 +38,6 @@ bool Parser::loadNextFrame() {
         ss >> instruction;
         std::transform(instruction.begin(), instruction.end(), instruction.begin(), ::tolower); // to lower case
         
-        std::cout << instruction << "." << std::endl;
         if (instruction == "stop" || instruction == "st") {
             break;
         }
