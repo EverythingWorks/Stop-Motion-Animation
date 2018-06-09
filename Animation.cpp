@@ -2,13 +2,14 @@
 #include <experimental/filesystem> 
 #include "Parser.h"
 #include <iostream>
+#include "Font.h"
 
 namespace animation {
 
 namespace fs = std::experimental::filesystem;
 
 Animation::Animation() {
-    if (_font.loadFromFile("04B_20__.TTF"))
+    if (_font.loadFromMemory(&__04B_20__, __04B_20__len))
     {
         _text.setFont(_font);
         _text.setString("PRESS SPACE \nTO PLAY");
