@@ -1,0 +1,1898 @@
+800, 600
+0, 100
+20, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 63 340 20 1
+kolo -7 340 20 1
+kolor_wypelnienia 0 0 200
+pr 3 320 83 360 1
+kolo 43 440 20 1
+kolo 83 440 20 1
+kolor_wypelnienia 200 0 0
+pr 23 420 103 460 1
+stop
+21, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 76 340 20 1
+kolo 6 340 20 1
+kolor_wypelnienia 0 0 200
+pr 16 320 96 360 1
+kolo 56 440 20 1
+kolo 96 440 20 1
+kolor_wypelnienia 200 0 0
+pr 36 420 116 460 1
+stop
+22, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 89 340 20 1
+kolo 19 340 20 1
+kolor_wypelnienia 0 0 200
+pr 29 320 109 360 1
+kolo 69 440 20 1
+kolo 109 440 20 1
+kolor_wypelnienia 200 0 0
+pr 49 420 129 460 1
+stop
+23, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 102 340 20 1
+kolo 32 340 20 1
+kolor_wypelnienia 0 0 200
+pr 42 320 122 360 1
+kolo 82 440 20 1
+kolo 122 440 20 1
+kolor_wypelnienia 200 0 0
+pr 62 420 142 460 1
+stop
+24, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 115 340 20 1
+kolo 45 340 20 1
+kolor_wypelnienia 0 0 200
+pr 55 320 135 360 1
+kolo 95 440 20 1
+kolo 135 440 20 1
+kolor_wypelnienia 200 0 0
+pr 75 420 155 460 1
+stop
+25, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 128 340 20 1
+kolo 58 340 20 1
+kolor_wypelnienia 0 0 200
+pr 68 320 148 360 1
+kolo 108 440 20 1
+kolo 148 440 20 1
+kolor_wypelnienia 200 0 0
+pr 88 420 168 460 1
+stop
+26, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 141 340 20 1
+kolo 71 340 20 1
+kolor_wypelnienia 0 0 200
+pr 81 320 161 360 1
+kolo 121 440 20 1
+kolo 161 440 20 1
+kolor_wypelnienia 200 0 0
+pr 101 420 181 460 1
+stop
+27, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 154 340 20 1
+kolo 84 340 20 1
+kolor_wypelnienia 0 0 200
+pr 94 320 174 360 1
+kolo 134 440 20 1
+kolo 174 440 20 1
+kolor_wypelnienia 200 0 0
+pr 114 420 194 460 1
+stop
+28, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 167 340 20 1
+kolo 97 340 20 1
+kolor_wypelnienia 0 0 200
+pr 107 320 187 360 1
+kolo 147 440 20 1
+kolo 187 440 20 1
+kolor_wypelnienia 200 0 0
+pr 127 420 207 460 1
+stop
+29, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 180 340 20 1
+kolo 110 340 20 1
+kolor_wypelnienia 0 0 200
+pr 120 320 200 360 1
+kolo 160 440 20 1
+kolo 200 440 20 1
+kolor_wypelnienia 200 0 0
+pr 140 420 220 460 1
+stop
+30, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 193 340 20 1
+kolo 123 340 20 1
+kolor_wypelnienia 0 0 200
+pr 133 320 213 360 1
+kolo 173 440 20 1
+kolo 213 440 20 1
+kolor_wypelnienia 200 0 0
+pr 153 420 233 460 1
+stop
+31, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 206 340 20 1
+kolo 136 340 20 1
+kolor_wypelnienia 0 0 200
+pr 146 320 226 360 1
+kolo 186 440 20 1
+kolo 226 440 20 1
+kolor_wypelnienia 200 0 0
+pr 166 420 246 460 1
+stop
+32, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 219 340 20 1
+kolo 149 340 20 1
+kolor_wypelnienia 0 0 200
+pr 159 320 239 360 1
+kolo 199 440 20 1
+kolo 239 440 20 1
+kolor_wypelnienia 200 0 0
+pr 179 420 259 460 1
+stop
+33, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 232 340 20 1
+kolo 162 340 20 1
+kolor_wypelnienia 0 0 200
+pr 172 320 252 360 1
+kolo 212 440 20 1
+kolo 252 440 20 1
+kolor_wypelnienia 200 0 0
+pr 192 420 272 460 1
+stop
+34, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 245 340 20 1
+kolo 175 340 20 1
+kolor_wypelnienia 0 0 200
+pr 185 320 265 360 1
+kolo 225 440 20 1
+kolo 265 440 20 1
+kolor_wypelnienia 200 0 0
+pr 205 420 285 460 1
+stop
+35, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 258 340 20 1
+kolo 188 340 20 1
+kolor_wypelnienia 0 0 200
+pr 198 320 278 360 1
+kolo 238 440 20 1
+kolo 278 440 20 1
+kolor_wypelnienia 200 0 0
+pr 218 420 298 460 1
+stop
+36, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 271 340 20 1
+kolo 201 340 20 1
+kolor_wypelnienia 0 0 200
+pr 211 320 291 360 1
+kolo 251 440 20 1
+kolo 291 440 20 1
+kolor_wypelnienia 200 0 0
+pr 231 420 311 460 1
+stop
+37, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 284 340 20 1
+kolo 214 340 20 1
+kolor_wypelnienia 0 0 200
+pr 224 320 304 360 1
+kolo 264 440 20 1
+kolo 304 440 20 1
+kolor_wypelnienia 200 0 0
+pr 244 420 324 460 1
+stop
+38, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 297 340 20 1
+kolo 227 340 20 1
+kolor_wypelnienia 0 0 200
+pr 237 320 317 360 1
+kolo 277 440 20 1
+kolo 317 440 20 1
+kolor_wypelnienia 200 0 0
+pr 257 420 337 460 1
+stop
+39, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 310 340 20 1
+kolo 240 340 20 1
+kolor_wypelnienia 0 0 200
+pr 250 320 330 360 1
+kolo 290 440 20 1
+kolo 330 440 20 1
+kolor_wypelnienia 200 0 0
+pr 270 420 350 460 1
+stop
+40, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 323 340 20 1
+kolo 253 340 20 1
+kolor_wypelnienia 0 0 200
+pr 263 320 343 360 1
+kolo 303 440 20 1
+kolo 343 440 20 1
+kolor_wypelnienia 200 0 0
+pr 283 420 363 460 1
+stop
+41, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 336 340 20 1
+kolo 266 340 20 1
+kolor_wypelnienia 0 0 200
+pr 276 320 356 360 1
+kolo 316 440 20 1
+kolo 356 440 20 1
+kolor_wypelnienia 200 0 0
+pr 296 420 376 460 1
+stop
+42, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 349 340 20 1
+kolo 279 340 20 1
+kolor_wypelnienia 0 0 200
+pr 289 320 369 360 1
+kolo 329 440 20 1
+kolo 369 440 20 1
+kolor_wypelnienia 200 0 0
+pr 309 420 389 460 1
+stop
+43, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 362 340 20 1
+kolo 292 340 20 1
+kolor_wypelnienia 0 0 200
+pr 302 320 382 360 1
+kolo 342 440 20 1
+kolo 382 440 20 1
+kolor_wypelnienia 200 0 0
+pr 322 420 402 460 1
+stop
+44, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 375 340 20 1
+kolo 305 340 20 1
+kolor_wypelnienia 0 0 200
+pr 315 320 395 360 1
+kolo 355 440 20 1
+kolo 395 440 20 1
+kolor_wypelnienia 200 0 0
+pr 335 420 415 460 1
+stop
+45, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 388 340 20 1
+kolo 318 340 20 1
+kolor_wypelnienia 0 0 200
+pr 328 320 408 360 1
+kolo 368 440 20 1
+kolo 408 440 20 1
+kolor_wypelnienia 200 0 0
+pr 348 420 428 460 1
+stop
+46, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 401 340 20 1
+kolo 331 340 20 1
+kolor_wypelnienia 0 0 200
+pr 341 320 421 360 1
+kolo 381 440 20 1
+kolo 421 440 20 1
+kolor_wypelnienia 200 0 0
+pr 361 420 441 460 1
+stop
+47, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 414 340 20 1
+kolo 344 340 20 1
+kolor_wypelnienia 0 0 200
+pr 354 320 434 360 1
+kolo 394 440 20 1
+kolo 434 440 20 1
+kolor_wypelnienia 200 0 0
+pr 374 420 454 460 1
+stop
+48, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 427 340 20 1
+kolo 357 340 20 1
+kolor_wypelnienia 0 0 200
+pr 367 320 447 360 1
+kolo 407 440 20 1
+kolo 447 440 20 1
+kolor_wypelnienia 200 0 0
+pr 387 420 467 460 1
+stop
+49, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 440 340 20 1
+kolo 370 340 20 1
+kolor_wypelnienia 0 0 200
+pr 380 320 460 360 1
+kolo 420 440 20 1
+kolo 460 440 20 1
+kolor_wypelnienia 200 0 0
+pr 400 420 480 460 1
+stop
+50, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 453 340 20 1
+kolo 383 340 20 1
+kolor_wypelnienia 0 0 200
+pr 393 320 473 360 1
+kolo 433 440 20 1
+kolo 473 440 20 1
+kolor_wypelnienia 200 0 0
+pr 413 420 493 460 1
+stop
+51, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 466 340 20 1
+kolo 396 340 20 1
+kolor_wypelnienia 0 0 200
+pr 406 320 486 360 1
+kolo 446 440 20 1
+kolo 486 440 20 1
+kolor_wypelnienia 200 0 0
+pr 426 420 506 460 1
+stop
+52, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 479 340 20 1
+kolo 409 340 20 1
+kolor_wypelnienia 0 0 200
+pr 419 320 499 360 1
+kolo 459 440 20 1
+kolo 499 440 20 1
+kolor_wypelnienia 200 0 0
+pr 439 420 519 460 1
+stop
+53, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 492 340 20 1
+kolo 422 340 20 1
+kolor_wypelnienia 0 0 200
+pr 432 320 512 360 1
+kolo 472 440 20 1
+kolo 512 440 20 1
+kolor_wypelnienia 200 0 0
+pr 452 420 532 460 1
+stop
+54, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 505 340 20 1
+kolo 435 340 20 1
+kolor_wypelnienia 0 0 200
+pr 445 320 525 360 1
+kolo 485 440 20 1
+kolo 525 440 20 1
+kolor_wypelnienia 200 0 0
+pr 465 420 545 460 1
+stop
+55, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 518 340 20 1
+kolo 448 340 20 1
+kolor_wypelnienia 0 0 200
+pr 458 320 538 360 1
+kolo 498 440 20 1
+kolo 538 440 20 1
+kolor_wypelnienia 200 0 0
+pr 478 420 558 460 1
+stop
+56, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 531 340 20 1
+kolo 461 340 20 1
+kolor_wypelnienia 0 0 200
+pr 471 320 551 360 1
+kolo 511 440 20 1
+kolo 551 440 20 1
+kolor_wypelnienia 200 0 0
+pr 491 420 571 460 1
+stop
+57, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 544 340 20 1
+kolo 474 340 20 1
+kolor_wypelnienia 0 0 200
+pr 484 320 564 360 1
+kolo 524 440 20 1
+kolo 564 440 20 1
+kolor_wypelnienia 200 0 0
+pr 504 420 584 460 1
+stop
+58, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 557 340 20 1
+kolo 487 340 20 1
+kolor_wypelnienia 0 0 200
+pr 497 320 577 360 1
+kolo 537 440 20 1
+kolo 577 440 20 1
+kolor_wypelnienia 200 0 0
+pr 517 420 597 460 1
+stop
+59, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 570 340 20 1
+kolo 500 340 20 1
+kolor_wypelnienia 0 0 200
+pr 510 320 590 360 1
+kolo 550 440 20 1
+kolo 590 440 20 1
+kolor_wypelnienia 200 0 0
+pr 530 420 610 460 1
+stop
+60, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 583 340 20 1
+kolo 513 340 20 1
+kolor_wypelnienia 0 0 200
+pr 523 320 603 360 1
+kolo 563 440 20 1
+kolo 603 440 20 1
+kolor_wypelnienia 200 0 0
+pr 543 420 623 460 1
+stop
+61, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 596 340 20 1
+kolo 526 340 20 1
+kolor_wypelnienia 0 0 200
+pr 536 320 616 360 1
+kolo 576 440 20 1
+kolo 616 440 20 1
+kolor_wypelnienia 200 0 0
+pr 556 420 636 460 1
+stop
+62, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 609 340 20 1
+kolo 539 340 20 1
+kolor_wypelnienia 0 0 200
+pr 549 320 629 360 1
+kolo 589 440 20 1
+kolo 629 440 20 1
+kolor_wypelnienia 200 0 0
+pr 569 420 649 460 1
+stop
+63, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 622 340 20 1
+kolo 552 340 20 1
+kolor_wypelnienia 0 0 200
+pr 562 320 642 360 1
+kolo 602 440 20 1
+kolo 642 440 20 1
+kolor_wypelnienia 200 0 0
+pr 582 420 662 460 1
+stop
+64, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 635 340 20 1
+kolo 565 340 20 1
+kolor_wypelnienia 0 0 200
+pr 575 320 655 360 1
+kolo 615 440 20 1
+kolo 655 440 20 1
+kolor_wypelnienia 200 0 0
+pr 595 420 675 460 1
+stop
+65, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 648 340 20 1
+kolo 578 340 20 1
+kolor_wypelnienia 0 0 200
+pr 588 320 668 360 1
+kolo 628 440 20 1
+kolo 668 440 20 1
+kolor_wypelnienia 200 0 0
+pr 608 420 688 460 1
+stop
+66, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 661 340 20 1
+kolo 591 340 20 1
+kolor_wypelnienia 0 0 200
+pr 601 320 681 360 1
+kolo 641 440 20 1
+kolo 681 440 20 1
+kolor_wypelnienia 200 0 0
+pr 621 420 701 460 1
+stop
+67, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 674 340 20 1
+kolo 604 340 20 1
+kolor_wypelnienia 0 0 200
+pr 614 320 694 360 1
+kolo 654 440 20 1
+kolo 694 440 20 1
+kolor_wypelnienia 200 0 0
+pr 634 420 714 460 1
+stop
+68, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 687 340 20 1
+kolo 617 340 20 1
+kolor_wypelnienia 0 0 200
+pr 627 320 707 360 1
+kolo 667 440 20 1
+kolo 707 440 20 1
+kolor_wypelnienia 200 0 0
+pr 647 420 727 460 1
+stop
+69, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 700 340 20 1
+kolo 630 340 20 1
+kolor_wypelnienia 0 0 200
+pr 640 320 720 360 1
+kolo 680 440 20 1
+kolo 720 440 20 1
+kolor_wypelnienia 200 0 0
+pr 660 420 740 460 1
+stop
+70, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 713 340 20 1
+kolo 643 340 20 1
+kolor_wypelnienia 0 0 200
+pr 653 320 733 360 1
+kolo 693 440 20 1
+kolo 733 440 20 1
+kolor_wypelnienia 200 0 0
+pr 673 420 753 460 1
+stop
+71, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 726 340 20 1
+kolo 656 340 20 1
+kolor_wypelnienia 0 0 200
+pr 666 320 746 360 1
+kolo 706 440 20 1
+kolo 746 440 20 1
+kolor_wypelnienia 200 0 0
+pr 686 420 766 460 1
+stop
+72, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 739 340 20 1
+kolo 669 340 20 1
+kolor_wypelnienia 0 0 200
+pr 679 320 759 360 1
+kolo 719 440 20 1
+kolo 759 440 20 1
+kolor_wypelnienia 200 0 0
+pr 699 420 779 460 1
+stop
+73, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 752 340 20 1
+kolo 682 340 20 1
+kolor_wypelnienia 0 0 200
+pr 692 320 772 360 1
+kolo 732 440 20 1
+kolo 772 440 20 1
+kolor_wypelnienia 200 0 0
+pr 712 420 792 460 1
+stop
+74, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 765 340 20 1
+kolo 695 340 20 1
+kolor_wypelnienia 0 0 200
+pr 705 320 785 360 1
+kolo 745 440 20 1
+kolo 785 440 20 1
+kolor_wypelnienia 200 0 0
+pr 725 420 805 460 1
+stop
+75, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 778 340 20 1
+kolo 708 340 20 1
+kolor_wypelnienia 0 0 200
+pr 718 320 798 360 1
+kolo 758 440 20 1
+kolo 798 440 20 1
+kolor_wypelnienia 200 0 0
+pr 738 420 818 460 1
+stop
+76, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 791 340 20 1
+kolo 721 340 20 1
+kolor_wypelnienia 0 0 200
+pr 731 320 811 360 1
+kolo 771 440 20 1
+kolo 811 440 20 1
+kolor_wypelnienia 200 0 0
+pr 751 420 831 460 1
+stop
+77, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 804 340 20 1
+kolo 734 340 20 1
+kolor_wypelnienia 0 0 200
+pr 744 320 824 360 1
+kolo 784 440 20 1
+kolo 824 440 20 1
+kolor_wypelnienia 200 0 0
+pr 764 420 844 460 1
+stop
+78, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 817 340 20 1
+kolo 747 340 20 1
+kolor_wypelnienia 0 0 200
+pr 757 320 837 360 1
+kolo 797 440 20 1
+kolo 837 440 20 1
+kolor_wypelnienia 200 0 0
+pr 777 420 857 460 1
+stop
+79, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 830 340 20 1
+kolo 760 340 20 1
+kolor_wypelnienia 0 0 200
+pr 770 320 850 360 1
+kolo 810 440 20 1
+kolo 850 440 20 1
+kolor_wypelnienia 200 0 0
+pr 790 420 870 460 1
+stop
+80, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 843 340 20 1
+kolo 773 340 20 1
+kolor_wypelnienia 0 0 200
+pr 783 320 863 360 1
+kolo 823 440 20 1
+kolo 863 440 20 1
+kolor_wypelnienia 200 0 0
+pr 803 420 883 460 1
+stop
+81, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 856 340 20 1
+kolo 786 340 20 1
+kolor_wypelnienia 0 0 200
+pr 796 320 876 360 1
+kolo 836 440 20 1
+kolo 876 440 20 1
+kolor_wypelnienia 200 0 0
+pr 816 420 896 460 1
+stop
+82, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 869 340 20 1
+kolo 799 340 20 1
+kolor_wypelnienia 0 0 200
+pr 809 320 889 360 1
+kolo 849 440 20 1
+kolo 889 440 20 1
+kolor_wypelnienia 200 0 0
+pr 829 420 909 460 1
+stop
+83, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 882 340 20 1
+kolo 812 340 20 1
+kolor_wypelnienia 0 0 200
+pr 822 320 902 360 1
+kolo 862 440 20 1
+kolo 902 440 20 1
+kolor_wypelnienia 200 0 0
+pr 842 420 922 460 1
+stop
+84, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 895 340 20 1
+kolo 825 340 20 1
+kolor_wypelnienia 0 0 200
+pr 835 320 915 360 1
+kolo 875 440 20 1
+kolo 915 440 20 1
+kolor_wypelnienia 200 0 0
+pr 855 420 935 460 1
+stop
+85, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 908 340 20 1
+kolo 838 340 20 1
+kolor_wypelnienia 0 0 200
+pr 848 320 928 360 1
+kolo 888 440 20 1
+kolo 928 440 20 1
+kolor_wypelnienia 200 0 0
+pr 868 420 948 460 1
+stop
+86, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 921 340 20 1
+kolo 851 340 20 1
+kolor_wypelnienia 0 0 200
+pr 861 320 941 360 1
+kolo 901 440 20 1
+kolo 941 440 20 1
+kolor_wypelnienia 200 0 0
+pr 881 420 961 460 1
+stop
+87, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 934 340 20 1
+kolo 864 340 20 1
+kolor_wypelnienia 0 0 200
+pr 874 320 954 360 1
+kolo 914 440 20 1
+kolo 954 440 20 1
+kolor_wypelnienia 200 0 0
+pr 894 420 974 460 1
+stop
+88, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 947 340 20 1
+kolo 877 340 20 1
+kolor_wypelnienia 0 0 200
+pr 887 320 967 360 1
+kolo 927 440 20 1
+kolo 967 440 20 1
+kolor_wypelnienia 200 0 0
+pr 907 420 987 460 1
+stop
+89, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 960 340 20 1
+kolo 890 340 20 1
+kolor_wypelnienia 0 0 200
+pr 900 320 980 360 1
+kolo 940 440 20 1
+kolo 980 440 20 1
+kolor_wypelnienia 200 0 0
+pr 920 420 1000 460 1
+stop
+90, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 973 340 20 1
+kolo 903 340 20 1
+kolor_wypelnienia 0 0 200
+pr 913 320 993 360 1
+kolo 953 440 20 1
+kolo 993 440 20 1
+kolor_wypelnienia 200 0 0
+pr 933 420 1013 460 1
+stop
+91, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 986 340 20 1
+kolo 916 340 20 1
+kolor_wypelnienia 0 0 200
+pr 926 320 1006 360 1
+kolo 966 440 20 1
+kolo 1006 440 20 1
+kolor_wypelnienia 200 0 0
+pr 946 420 1026 460 1
+stop
+92, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 999 340 20 1
+kolo 929 340 20 1
+kolor_wypelnienia 0 0 200
+pr 939 320 1019 360 1
+kolo 979 440 20 1
+kolo 1019 440 20 1
+kolor_wypelnienia 200 0 0
+pr 959 420 1039 460 1
+stop
+93, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 1012 340 20 1
+kolo 942 340 20 1
+kolor_wypelnienia 0 0 200
+pr 952 320 1032 360 1
+kolo 992 440 20 1
+kolo 1032 440 20 1
+kolor_wypelnienia 200 0 0
+pr 972 420 1052 460 1
+stop
+94, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 1025 340 20 1
+kolo 955 340 20 1
+kolor_wypelnienia 0 0 200
+pr 965 320 1045 360 1
+kolo 1005 440 20 1
+kolo 1045 440 20 1
+kolor_wypelnienia 200 0 0
+pr 985 420 1065 460 1
+stop
+95, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 1038 340 20 1
+kolo 968 340 20 1
+kolor_wypelnienia 0 0 200
+pr 978 320 1058 360 1
+kolo 1018 440 20 1
+kolo 1058 440 20 1
+kolor_wypelnienia 200 0 0
+pr 998 420 1078 460 1
+stop
+96, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 1051 340 20 1
+kolo 981 340 20 1
+kolor_wypelnienia 0 0 200
+pr 991 320 1071 360 1
+kolo 1031 440 20 1
+kolo 1071 440 20 1
+kolor_wypelnienia 200 0 0
+pr 1011 420 1091 460 1
+stop
+97, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 1064 340 20 1
+kolo 994 340 20 1
+kolor_wypelnienia 0 0 200
+pr 1004 320 1084 360 1
+kolo 1044 440 20 1
+kolo 1084 440 20 1
+kolor_wypelnienia 200 0 0
+pr 1024 420 1104 460 1
+stop
+98, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 1077 340 20 1
+kolo 1007 340 20 1
+kolor_wypelnienia 0 0 200
+pr 1017 320 1097 360 1
+kolo 1057 440 20 1
+kolo 1097 440 20 1
+kolor_wypelnienia 200 0 0
+pr 1037 420 1117 460 1
+stop
+99, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+kolo 1090 340 20 1
+kolo 1020 340 20 1
+kolor_wypelnienia 0 0 200
+pr 1030 320 1110 360 1
+kolo 1070 440 20 1
+kolo 1110 440 20 1
+kolor_wypelnienia 200 0 0
+pr 1050 420 1130 460 1
+stop
+100, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 800 300 860 360 1
+kolor_wypelnienia 0 0 200
+pr 0 300 60 360 1
+stop
+101, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 790 300 850 360 1
+kolor_wypelnienia 0 0 200
+pr 10 300 70 360 1
+stop
+102, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 780 300 840 360 1
+kolor_wypelnienia 0 0 200
+pr 20 300 80 360 1
+stop
+103, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 770 300 830 360 1
+kolor_wypelnienia 0 0 200
+pr 30 300 90 360 1
+stop
+104, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 760 300 820 360 1
+kolor_wypelnienia 0 0 200
+pr 40 300 100 360 1
+stop
+105, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 750 300 810 360 1
+kolor_wypelnienia 0 0 200
+pr 50 300 110 360 1
+stop
+106, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 740 300 800 360 1
+kolor_wypelnienia 0 0 200
+pr 60 300 120 360 1
+stop
+107, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 730 300 790 360 1
+kolor_wypelnienia 0 0 200
+pr 70 300 130 360 1
+stop
+108, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 720 300 780 360 1
+kolor_wypelnienia 0 0 200
+pr 80 300 140 360 1
+stop
+109, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 710 300 770 360 1
+kolor_wypelnienia 0 0 200
+pr 90 300 150 360 1
+stop
+110, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 700 300 760 360 1
+kolor_wypelnienia 0 0 200
+pr 100 300 160 360 1
+stop
+111, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 690 300 750 360 1
+kolor_wypelnienia 0 0 200
+pr 110 300 170 360 1
+stop
+112, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 680 300 740 360 1
+kolor_wypelnienia 0 0 200
+pr 120 300 180 360 1
+stop
+113, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 670 300 730 360 1
+kolor_wypelnienia 0 0 200
+pr 130 300 190 360 1
+stop
+114, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 660 300 720 360 1
+kolor_wypelnienia 0 0 200
+pr 140 300 200 360 1
+stop
+115, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 650 300 710 360 1
+kolor_wypelnienia 0 0 200
+pr 150 300 210 360 1
+stop
+116, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 640 300 700 360 1
+kolor_wypelnienia 0 0 200
+pr 160 300 220 360 1
+stop
+117, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 630 300 690 360 1
+kolor_wypelnienia 0 0 200
+pr 170 300 230 360 1
+stop
+118, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 620 300 680 360 1
+kolor_wypelnienia 0 0 200
+pr 180 300 240 360 1
+stop
+119, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 610 300 670 360 1
+kolor_wypelnienia 0 0 200
+pr 190 300 250 360 1
+stop
+120, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 600 300 660 360 1
+kolor_wypelnienia 0 0 200
+pr 200 300 260 360 1
+stop
+121, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 590 300 650 360 1
+kolor_wypelnienia 0 0 200
+pr 210 300 270 360 1
+stop
+122, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 580 300 640 360 1
+kolor_wypelnienia 0 0 200
+pr 220 300 280 360 1
+stop
+123, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 570 300 630 360 1
+kolor_wypelnienia 0 0 200
+pr 230 300 290 360 1
+stop
+124, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 560 300 620 360 1
+kolor_wypelnienia 0 0 200
+pr 240 300 300 360 1
+stop
+125, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 550 300 610 360 1
+kolor_wypelnienia 0 0 200
+pr 250 300 310 360 1
+stop
+126, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 540 300 600 360 1
+kolor_wypelnienia 0 0 200
+pr 260 300 320 360 1
+stop
+127, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 530 300 590 360 1
+kolor_wypelnienia 0 0 200
+pr 270 300 330 360 1
+stop
+128, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 520 300 580 360 1
+kolor_wypelnienia 0 0 200
+pr 280 300 340 360 1
+stop
+129, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 510 300 570 360 1
+kolor_wypelnienia 0 0 200
+pr 290 300 350 360 1
+stop
+130, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 500 300 560 360 1
+kolor_wypelnienia 0 0 200
+pr 300 300 360 360 1
+stop
+131, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 490 300 550 360 1
+kolor_wypelnienia 0 0 200
+pr 310 300 370 360 1
+stop
+132, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 480 300 540 360 1
+kolor_wypelnienia 0 0 200
+pr 320 300 380 360 1
+stop
+133, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 470 300 530 360 1
+kolor_wypelnienia 0 0 200
+pr 330 300 390 360 1
+stop
+134, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 460 300 520 360 1
+kolor_wypelnienia 0 0 200
+pr 340 300 400 360 1
+stop
+135, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 450 300 510 360 1
+kolor_wypelnienia 0 0 200
+pr 350 300 410 360 1
+stop
+136, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 440 300 500 360 1
+kolor_wypelnienia 0 0 200
+pr 360 300 420 360 1
+stop
+137, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 320 60 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 200 0 0
+pr 430 300 490 360 1
+kolor_wypelnienia 0 0 200
+pr 370 300 430 360 1
+stop
+138, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+139, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+140, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+141, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+142, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+143, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+144, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+145, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+146, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+147, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+148, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+149, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+150, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+151, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+152, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+153, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+154, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+155, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
+156, 100
+kolor_wypelnienia 200 0 0
+prostokat 0 0 800 800 1
+stop
+157, 100
+kolor_wypelnienia 200 200 0
+prostokat 0 0 800 800 1
+stop
