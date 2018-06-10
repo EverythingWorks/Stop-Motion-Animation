@@ -12,10 +12,11 @@ Animation::Animation() : _ctrl(new Controller) {
     if (_font.loadFromMemory(&__04B_20__, __04B_20__len))
     {
         _text.setFont(_font); 
-        _text.setString("PRESS SPACE \nTO PLAY");
+        _text.setString("PRESS SPACE \n\tTO PLAY\n\nPRESS S TO \n\tSAVE");
         _text.setCharacterSize(45);
         _text.setFillColor(sf::Color::White);
         _text.setStyle(sf::Text::Bold);
+
         _window.setVerticalSyncEnabled(false);
     }
 }
@@ -24,11 +25,10 @@ void Animation::run() {
     Parser parser {"mySample.txt"};
 
     while(parser.loadNextFrame()) { /* empty */ }
-    parser._config._width > parser._config._height ? _text.setCharacterSize(0.07 * parser._config._height) : _text.setCharacterSize(0.05 * parser._config._width);
-
-
     _window.create(sf::VideoMode(parser._config._width, parser._config._height),"Animation",sf::Style::Titlebar | sf::Style::Close);
     sf::FloatRect textRect = _text.getLocalBounds();
+
+    parser._config._width > parser._config._height ? _text.setCharacterSize(0.07 * parser._config._height) : _text.setCharacterSize(0.05 * parser._config._width);
     _text.setPosition(parser._config._width/2 - textRect.width/2., parser._config._height/2 - textRect.height/2.);
 
     sf::Event event;
@@ -49,7 +49,30 @@ void Animation::run() {
                     _ctrl->speedDown();
                 if (event.key.code == sf::Keyboard::Right)
                     _ctrl->speedUp();
+                if(event.key.code == sf::Keyboard::S){
+                    _window.clear(sf::Color::Blue);
+                    sf::Text text;
+                    text.setFont(_font);
+                    text.setString("SAVING");
+                    text.setCharacterSize(45);
+                    parser._config._width > parser._config._height ? text.setCharacterSize(0.07 * parser._config._height) : text.setCharacterSize(0.05 * parser._config._width);
+                    text.setPosition(parser._config._width/2 - textRect.width/2., parser._config._height/2 - textRect.height/2.);
+                    text.setFillColor(sf::Color::White);
+                    text.setStyle(sf::Text::Bold);
+                    _window.draw(text);
+                    _window.display();
 
+                    if (!fs::is_directory("animation_output") || !fs::exists("animation_output"))  // Check if src folder exists
+                        fs::create_directory("animation_output"); // create src folder
+                    int i {};
+                    for (const auto & frame : parser._frames) {
+                        frame._image.saveToFile("animation_output/" + std::to_string(i) + ".bmp");
+                        ++i;
+                    }
+                    text.setString("SAVED!");
+                    _window.draw(text);
+                    _window.display();
+                }
             }
         }
 
@@ -83,14 +106,6 @@ void Animation::run() {
 
 
     }
-
-    //if (!fs::is_directory("animation_output") || !fs::exists("animation_output"))  // Check if src folder exists
-    //    fs::create_directory("animation_output"); // create src folder
-    //int i {};
-    //for (const auto & frame : parser._frames) {
-    //    frame._image.saveToFile("animation_output/" + std::to_string(i) + ".bmp");
-    //    ++i;
-    //}
 
 }
 
