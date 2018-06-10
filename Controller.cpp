@@ -11,4 +11,7 @@ namespace animation {
          if  (_speedMultiplier * 2 <= maxSpeedMultiplier)
             _speedMultiplier *= 2;
     }
+    void Controller::resetMultiplier() {
+        _speedMultiplier = 1.0;
+    }
 }

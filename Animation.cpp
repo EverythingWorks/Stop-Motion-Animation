@@ -84,6 +84,7 @@ void Animation::run() {
             if (it == parser._frames.end()) {
                 it = parser._frames.begin();
                 _ctrl->isPlaying() = false;
+                _ctrl->resetMultiplier();
                 clock.restart();
             }
             else {

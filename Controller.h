@@ -11,6 +11,7 @@ namespace animation
         double getRealTimeInterval(const int timeInterval) { return timeInterval * _speedMultiplier; }
         void speedUp();
         void speedDown();
+        void resetMultiplier();
 
     private:
         static constexpr double maxSpeedMultiplier {8.0};
