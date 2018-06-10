@@ -154,6 +154,24 @@ bool Parser::loadNextFrame() {
 
             renderTexture.draw(sprite);
         }
+        if (instruction == "luk" || instruction == "lk" ) {
+            float x, y, radius, start_angle, end_angle;
+            ((((ss.ignore(256, ' ') >> x).ignore(256, ' ') >> y).ignore(256, ' ') >> radius).ignore(256, ' ') >> start_angle).ignore(256, ' ') >> end_angle;
+
+            sf::VertexArray arc(sf::LinesStrip);
+
+            start_angle = start_angle * M_PI/180.;
+            end_angle = end_angle * M_PI/180.;
+
+            float angle = start_angle;
+
+            while (angle <= end_angle){
+                arc.append( sf::Vector2f(x + radius*cos(angle), y + radius*sin(angle)) );
+                angle += 0.001;
+            }
+
+            renderTexture.draw(arc);
+        }
     }
 
     renderTexture.display();
