@@ -41,15 +41,18 @@ void Animation::run() {
                 _window.close();
             
             if (event.type == sf::Event::KeyPressed) {
-                if(event.key.code == sf::Keyboard::Space)
+                if(event.key.code == sf::Keyboard::Space) {
                     _ctrl->isPlaying() = true;
+                    clock.restart();
+                }
+
                 if (event.key.code == sf::Keyboard::Escape)
                     _window.close();
                 if (event.key.code == sf::Keyboard::Left)
                     _ctrl->speedDown();
                 if (event.key.code == sf::Keyboard::Right)
                     _ctrl->speedUp();
-                if(event.key.code == sf::Keyboard::S){
+                if(event.key.code == sf::Keyboard::S) {
                     _window.clear(sf::Color::Blue);
                     sf::Text text;
                     text.setFont(_font);
@@ -80,18 +83,19 @@ void Animation::run() {
             if (it == parser._frames.end()) {
                 it = parser._frames.begin();
                 _ctrl->isPlaying() = false;
+                clock.restart();
             }
             else {
-                 if (clock.getElapsedTime().asMilliseconds() > _ctrl->getRealTimeInterval(it->_timeInterval)) {
                     _window.clear(sf::Color::Black);
                     sf::Texture text;
                     text.create(parser._config._width, parser._config._height);
                     text.update(it->_image);
                     _window.draw(sf::Sprite(text));
                     _window.display();
+                if (clock.getElapsedTime().asMilliseconds() >= _ctrl->getRealTimeInterval(it->_timeInterval)) {
                     ++it;
                     clock.restart(); 
-                 }
+                }
 
             }
         }
