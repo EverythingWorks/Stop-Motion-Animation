@@ -16,13 +16,14 @@ Animation::Animation() : _ctrl(new Controller) {
         _text.setCharacterSize(45);
         _text.setFillColor(sf::Color::White);
         _text.setStyle(sf::Text::Bold);
+        _window.setVerticalSyncEnabled(false);
     }
 }
 
 void Animation::run() {
     Parser parser {"mySample.txt"};
 
-    for (int i {}; parser.loadNextFrame(); ++i) { /* empty */ }
+    while(parser.loadNextFrame()) { /* empty */ }
 
     _window.create(sf::VideoMode(parser._config._width, parser._config._height),"Animation",sf::Style::Titlebar | sf::Style::Close);
     sf::FloatRect textRect = _text.getLocalBounds();
@@ -30,6 +31,7 @@ void Animation::run() {
 
     sf::Event event;
     sf::Clock clock;
+    auto it = parser._frames.begin();
 
     while(_window.isOpen()) {
         while (_window.pollEvent(event)) {
@@ -40,21 +42,27 @@ void Animation::run() {
                 _ctrl->isPlaying() = true;
         }
 
-        if ( _ctrl->isPlaying()){
-            for (unsigned i {}; i < parser._frames.size(); ) {
-                if (clock.getElapsedTime().asMilliseconds() > parser._frames[i]._timeInterval) {
+        if (_ctrl->isPlaying()) {
+            if (it == parser._frames.end()) {
+                it = parser._frames.begin();
+                _ctrl->isPlaying()= false;
+            }
+            else {
+                 if (clock.getElapsedTime().asMilliseconds() > it->_timeInterval) {
                     _window.clear(sf::Color::Black);
                     sf::Texture text;
                     text.create(parser._config._width, parser._config._height);
-                    text.update(parser._frames[i]._image);
+                    text.update(it->_image);
                     _window.draw(sf::Sprite(text));
                     _window.display();
-                    ++i;
-                    clock.restart();
-                }
+                    ++it;
+                    clock.restart(); 
+                 }
+
             }
-            _ctrl->isPlaying() = false;
         }
+
+    
         else {
             _window.clear(sf::Color::Blue);
             _window.draw(_text);
