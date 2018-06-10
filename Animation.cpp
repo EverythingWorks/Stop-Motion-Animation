@@ -24,6 +24,8 @@ void Animation::run() {
     Parser parser {"mySample.txt"};
 
     while(parser.loadNextFrame()) { /* empty */ }
+    parser._config._width > parser._config._height ? _text.setCharacterSize(0.07 * parser._config._height) : _text.setCharacterSize(0.05 * parser._config._width);
+
 
     _window.create(sf::VideoMode(parser._config._width, parser._config._height),"Animation",sf::Style::Titlebar | sf::Style::Close);
     sf::FloatRect textRect = _text.getLocalBounds();
