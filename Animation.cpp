@@ -8,10 +8,10 @@ namespace animation {
 
 namespace fs = std::experimental::filesystem;
 
-Animation::Animation() {
+Animation::Animation() : _ctrl(new Controller) {
     if (_font.loadFromMemory(&__04B_20__, __04B_20__len))
     {
-        _text.setFont(_font);
+        _text.setFont(_font); 
         _text.setString("PRESS SPACE \nTO PLAY");
         _text.setCharacterSize(45);
         _text.setFillColor(sf::Color::White);
@@ -30,7 +30,6 @@ void Animation::run() {
 
     sf::Event event;
     sf::Clock clock;
-    bool play {};
 
     while(_window.isOpen()) {
         while (_window.pollEvent(event)) {
@@ -38,10 +37,10 @@ void Animation::run() {
                 _window.close();
         if (event.type == sf::Event::KeyPressed)
             if(event.key.code == sf::Keyboard::Space)
-                play = true;
+                _ctrl->isPlaying() = true;
         }
 
-        if (play){
+        if ( _ctrl->isPlaying()){
             for (unsigned i {}; i < parser._frames.size(); ) {
                 if (clock.getElapsedTime().asMilliseconds() > parser._frames[i]._timeInterval) {
                     _window.clear(sf::Color::Black);
@@ -54,7 +53,7 @@ void Animation::run() {
                     clock.restart();
                 }
             }
-            play = false;
+            _ctrl->isPlaying() = false;
         }
         else {
             _window.clear(sf::Color::Blue);

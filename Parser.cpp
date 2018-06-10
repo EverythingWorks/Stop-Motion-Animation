@@ -88,7 +88,7 @@ bool Parser::loadNextFrame() {
                 float y = sin(rad)*radius_y;
 
                 ellipse.setPoint(i,sf::Vector2f(x,y));
-            };
+            }
 
             ellipse.setOutlineColor(_colors._outlineColor);
 
@@ -154,7 +154,6 @@ bool Parser::loadNextFrame() {
 
             renderTexture.draw(sprite);
         }
-
     }
 
     renderTexture.display();
