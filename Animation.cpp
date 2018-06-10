@@ -24,11 +24,12 @@ Animation::Animation() : _ctrl(new Controller) {
 void Animation::run() {
     Parser parser {"mySample.txt"};
 
+    parser._config._width > parser._config._height ? _text.setCharacterSize(0.07 * parser._config._height) : _text.setCharacterSize(0.05 * parser._config._width);
+
     while(parser.loadNextFrame()) { /* empty */ }
     _window.create(sf::VideoMode(parser._config._width, parser._config._height),"Animation",sf::Style::Titlebar | sf::Style::Close);
     sf::FloatRect textRect = _text.getLocalBounds();
 
-    parser._config._width > parser._config._height ? _text.setCharacterSize(0.07 * parser._config._height) : _text.setCharacterSize(0.05 * parser._config._width);
     _text.setPosition(parser._config._width/2 - textRect.width/2., parser._config._height/2 - textRect.height/2.);
 
     sf::Event event;
