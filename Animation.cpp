@@ -35,20 +35,29 @@ void Animation::run() {
 
     while(_window.isOpen()) {
         while (_window.pollEvent(event)) {
-            if(event.type == sf::Event::Closed || event.key.code == sf::Keyboard::Escape)
+            if(event.type == sf::Event::Closed)
                 _window.close();
-        if (event.type == sf::Event::KeyPressed)
-            if(event.key.code == sf::Keyboard::Space)
-                _ctrl->isPlaying() = true;
+            
+            if (event.type == sf::Event::KeyPressed) {
+                if(event.key.code == sf::Keyboard::Space)
+                    _ctrl->isPlaying() = true;
+                if (event.key.code == sf::Keyboard::Escape)
+                    _window.close();
+                if (event.key.code == sf::Keyboard::Left)
+                    _ctrl->speedDown();
+                if (event.key.code == sf::Keyboard::Right)
+                    _ctrl->speedUp();
+
+            }
         }
 
         if (_ctrl->isPlaying()) {
             if (it == parser._frames.end()) {
                 it = parser._frames.begin();
-                _ctrl->isPlaying()= false;
+                _ctrl->isPlaying() = false;
             }
             else {
-                 if (clock.getElapsedTime().asMilliseconds() > it->_timeInterval) {
+                 if (clock.getElapsedTime().asMilliseconds() > _ctrl->getRealTimeInterval(it->_timeInterval)) {
                     _window.clear(sf::Color::Black);
                     sf::Texture text;
                     text.create(parser._config._width, parser._config._height);
