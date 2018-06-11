@@ -24,7 +24,7 @@ bool Parser::loadNextFrame() {
     
     (iss >> frameNumber).ignore(256, ' ') >> timeInterval;
 
-
+    sf::Texture img_tex;
     
     sf::RenderTexture renderTexture;
     renderTexture.create(_config._width, _config._height);
@@ -146,13 +146,12 @@ bool Parser::loadNextFrame() {
             float x, y;
             ((ss.ignore(256, ' ') >> x).ignore(256, ' ') >> y).ignore(256, ' ') >> path;
 
-            sf::Texture tex;
-            tex.loadFromFile(path);
+            if (img_tex.loadFromFile(path)){
+                sf::Sprite sprite (img_tex);
+                sprite.setPosition(sf::Vector2f(x, y));
 
-            sf::Sprite sprite (tex);
-            sprite.setPosition(sf::Vector2f(x, y));
-
-            renderTexture.draw(sprite);
+                renderTexture.draw(sprite);
+            }
         }
         if (instruction == "luk" || instruction == "lk" ) {
             float x, y, radius, start_angle, end_angle;
