@@ -1,4 +1,4 @@
-800, 600, 138
+800, 600, 148
 0, 700
 kw 15 17 103
 prostokat 0 0 800 800 1
@@ -40,7 +40,7 @@ kl 500, 40 3 1
 kl 600, 20 3 1
 kl 700, 150 3 1
 kolor_wypelnienia 255 255 0
-kolo 350 295 50 1
+kolo 320 295 50 1
 kolor_wypelnienia 0 150 0
 prostokat 0 800 800 300 1
 stop
@@ -53,7 +53,7 @@ kl 300, 70 3 1
 kl 500, 40 3 1
 kl 600, 20 3 1
 kolor_wypelnienia 255 255 0
-kolo 350 290 50 1
+kolo 320 290 50 1
 kolor_wypelnienia 0 150 0
 prostokat 0 800 800 300 1
 stop
@@ -66,7 +66,7 @@ kl 300, 70 3 1
 kl 500, 40 3 1
 kl 600, 20 3 1
 kolor_wypelnienia 255 255 0
-kolo 350 280 50 1
+kolo 320 280 50 1
 kolor_wypelnienia 0 160 0
 prostokat 0 800 800 300 1
 stop
@@ -74,7 +74,7 @@ stop
 kolor_wypelnienia 0 0 200
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 270 50 1
+kolo 320 270 50 1
 kolor_wypelnienia 0 160 0
 prostokat 0 800 800 300 1
 stop
@@ -82,7 +82,7 @@ stop
 kolor_wypelnienia 0 0 250
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 260 50 1
+kolo 320 260 50 1
 kolor_wypelnienia 0 170 0
 prostokat 0 800 800 300 1
 stop
@@ -90,7 +90,7 @@ stop
 kolor_wypelnienia 0 50 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 245 50 1
+kolo 320 245 50 1
 kolor_wypelnienia 0 170 0
 prostokat 0 800 800 300 1
 stop
@@ -98,7 +98,7 @@ stop
 kolor_wypelnienia 0 70 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 240 50 1
+kolo 320 240 50 1
 kolor_wypelnienia 0 180 0
 prostokat 0 800 800 300 1
 stop
@@ -108,7 +108,7 @@ prostokat 0 0 800 800 1
 kolor_wypelnienia 0 80 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 235 50 1
+kolo 320 235 50 1
 kolor_wypelnienia 0 180 0
 prostokat 0 800 800 300 1
 stop
@@ -116,15 +116,15 @@ stop
 kolor_wypelnienia 10 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 225 50 1
+kolo 320 225 50 1
 kolor_wypelnienia 0 190 0
 prostokat 0 800 800 300 1
 stop
-10,70
+10, 70
 kolor_wypelnienia 30 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 210 50 1
+kolo 320 210 50 1
 kolor_wypelnienia 0 190 0
 prostokat 0 800 800 300 1
 stop
@@ -132,7 +132,7 @@ stop
 kolor_wypelnienia 40 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 200 50 1
+kolo 320 200 50 1
 kolor_wypelnienia 0 200 0
 prostokat 0 800 800 300 1
 stop
@@ -140,7 +140,7 @@ stop
 kolor_wypelnienia 50 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 175 50 1
+kolo 320 175 50 1
 kolor_wypelnienia 0 200 0
 prostokat 0 800 800 300 1
 stop
@@ -148,7 +148,7 @@ stop
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 145 50 1
+kolo 320 145 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 800 800 300 1
 stop
@@ -156,7 +156,7 @@ stop
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 115 50 1
+kolo 320 115 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 800 800 300 1
 stop
@@ -164,7 +164,7 @@ stop
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 100 50 1
+kolo 320 100 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 800 800 300 1
 stop
@@ -172,7 +172,7 @@ stop
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 100 50 1
+kolo 320 90 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 290 800 800 1
 stop
@@ -180,7 +180,7 @@ stop
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 100 50 1
+kolo 320 80 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 260 800 800 1
 stop
@@ -188,7 +188,7 @@ stop
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 100 50 1
+kolo 320 70 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 240 800 800 1
 stop
@@ -196,7 +196,7 @@ stop
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
-kolo 350 100 50 1
+kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 220 800 800 1
 stop
@@ -4459,84 +4459,55 @@ stop
 137, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 138, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 139, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 140, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 141, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 142, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 143, 100
 kolor_wypelnienia 200 0 0
-prostokat 0 0 800 800 1
+prostokat 0 0 800 800
+obraz 160 100 ./bang.png
 stop
 144, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 145, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 146, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
 147, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
+obraz 160 100 ./bang.png
 stop
-148, 100
-kolor_wypelnienia 200 200 0
-prostokat 0 0 800 800 1
-stop
-149, 100
-kolor_wypelnienia 200 0 0
-prostokat 0 0 800 800 1
-stop
-150, 100
-kolor_wypelnienia 200 200 0
-prostokat 0 0 800 800 1
-stop
-151, 100
-kolor_wypelnienia 200 0 0
-prostokat 0 0 800 800 1
-stop
-152, 100
-kolor_wypelnienia 200 200 0
-prostokat 0 0 800 800 1
-stop
-153, 100
-kolor_wypelnienia 200 0 0
-prostokat 0 0 800 800 1
-stop
-154, 100
-kolor_wypelnienia 200 200 0
-prostokat 0 0 800 800 1
-stop
-155, 100
-kolor_wypelnienia 200 0 0
-prostokat 0 0 800 800 1
-stop
-156, 100
-kolor_wypelnienia 200 200 0
-prostokat 0 0 800 800 1
-stop
-157,  1000
-kolor_wypelnienia 200 0 0
-prostokat 0 0 800 800 1
-obraz 100 100 ./bang.png
