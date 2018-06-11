@@ -11,6 +11,7 @@ namespace animation {
     
         unsigned _width;
         unsigned _height;
+        unsigned _framesAmount;
         std::string _inputFile;
         std::string _outputDir;
         std::map<std::string, sf::Color> _definedColors;

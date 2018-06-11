@@ -26,7 +26,7 @@ void Animation::run() {
 
     parser._config._width > parser._config._height ? _text.setCharacterSize(0.07 * parser._config._height) : _text.setCharacterSize(0.05 * parser._config._width);
 
-    while(parser.loadNextFrame()) { /* empty */ }
+    //while(parser.loadNextFrame()){}
     _window.create(sf::VideoMode(parser._config._width, parser._config._height),"Animation",sf::Style::Titlebar | sf::Style::Close);
     sf::FloatRect textRect = _text.getLocalBounds();
 
@@ -35,8 +35,51 @@ void Animation::run() {
     sf::Event event;
     sf::Clock clock;
     auto it = parser._frames.begin();
+    bool is_loaded{false};
 
     while(_window.isOpen()) {
+        if (!is_loaded){
+            int i{};
+
+            sf::Text text;
+            text.setFont(_font);
+            text.setCharacterSize(45);
+            parser._config._width > parser._config._height ? text.setCharacterSize(0.07 * parser._config._height) : text.setCharacterSize(0.05 * parser._config._width);
+            text.setPosition(parser._config._width/2 - textRect.width/2., parser._config._height/2 - textRect.height/2.);
+            text.setFillColor(sf::Color::White);
+            text.setStyle(sf::Text::Bold);
+
+            sf::RectangleShape strip;
+            sf::RectangleShape loading_strip;
+            strip.setPosition(parser._config._width*0.1, parser._config._height*0.7);
+            strip.setFillColor(sf::Color(15, 16, 17));
+            strip.setSize(sf::Vector2f(parser._config._width*0.8, 50));
+
+            loading_strip.setPosition(parser._config._width*0.1 + 2, parser._config._height*0.7 + 2);
+            loading_strip.setFillColor(sf::Color(90, 255, 20));
+
+            while(parser.loadNextFrame()) {
+                _window.clear(sf::Color::Blue);
+                if (i%36 == 0)
+                    text.setString("LOADING.");
+                else if (i%36 == 12)
+                    text.setString("LOADING..");
+                else if (i%36 == 24)
+                    text.setString("LOADING...");
+
+                _window.draw(text);
+                _window.draw(strip);
+
+                loading_strip.setSize(sf::Vector2f(parser._config._width*0.79 * i / parser._config._framesAmount, 46));
+                _window.draw(loading_strip);
+
+                _window.display();
+                ++i;
+            }
+
+            is_loaded = true;
+        }
+
         while (_window.pollEvent(event)) {
             if(event.type == sf::Event::Closed)
                 _window.close();

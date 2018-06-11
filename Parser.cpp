@@ -10,7 +10,7 @@ Parser::Parser(std::string filePath) : _config{filePath}, _input{filePath}  {
     std::string line;
     std::getline(_input, line);
     std::istringstream iss {line};
-    (iss >> _config._width).ignore(256, ' ') >> _config._height;
+    ((iss >> _config._width).ignore(256, ' ') >> _config._height).ignore(256, ' ') >> _config._framesAmount;
 }
 
 bool Parser::loadNextFrame() {
