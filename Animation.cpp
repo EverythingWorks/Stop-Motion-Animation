@@ -78,6 +78,7 @@ void Animation::run() {
             }
 
             is_loaded = true;
+            it = parser._frames.begin();
         }
 
         while (_window.pollEvent(event)) {

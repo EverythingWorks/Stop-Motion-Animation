@@ -3,7 +3,7 @@
 
 namespace animation {
     struct Toolkit {
-        Toolkit() : _backgroundColor { sf::Color::Black }, _outlineColor { sf::Color::White }, _fillColor { sf::Color::White } {}
+        Toolkit() : _backgroundColor { sf::Color::Black }, _outlineColor { sf::Color::White }, _fillColor { sf::Color::White}, _outlineThicknes{1.} {}
         sf::Color _backgroundColor;
         sf::Color _outlineColor;
         sf::Color _fillColor;
