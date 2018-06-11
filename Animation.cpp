@@ -41,39 +41,8 @@ void Animation::run() {
         if (!is_loaded){
             int i{};
 
-            sf::Text text;
-            text.setFont(_font);
-            text.setCharacterSize(45);
-            parser._config._width > parser._config._height ? text.setCharacterSize(0.07 * parser._config._height) : text.setCharacterSize(0.05 * parser._config._width);
-            text.setPosition(parser._config._width/2 - textRect.width/2., parser._config._height/2 - textRect.height/2.);
-            text.setFillColor(sf::Color::White);
-            text.setStyle(sf::Text::Bold);
-
-            sf::RectangleShape strip;
-            sf::RectangleShape loading_strip;
-            strip.setPosition(parser._config._width*0.1, parser._config._height*0.7);
-            strip.setFillColor(sf::Color(15, 16, 17));
-            strip.setSize(sf::Vector2f(parser._config._width*0.8, 50));
-
-            loading_strip.setPosition(parser._config._width*0.1 + 2, parser._config._height*0.7 + 2);
-            loading_strip.setFillColor(sf::Color(90, 255, 20));
-
             while(parser.loadNextFrame()) {
-                _window.clear(sf::Color::Blue);
-                if (i%36 == 0)
-                    text.setString("LOADING.");
-                else if (i%36 == 12)
-                    text.setString("LOADING..");
-                else if (i%36 == 24)
-                    text.setString("LOADING...");
-
-                _window.draw(text);
-                _window.draw(strip);
-
-                loading_strip.setSize(sf::Vector2f(parser._config._width*0.79 * i / parser._config._framesAmount, 46));
-                _window.draw(loading_strip);
-
-                _window.display();
+                process("LOADING", i, parser._config._framesAmount);
                 ++i;
             }
 
@@ -98,27 +67,15 @@ void Animation::run() {
                 if (event.key.code == sf::Keyboard::Right)
                     _ctrl->speedUp();
                 if(event.key.code == sf::Keyboard::S) {
-                    _window.clear(sf::Color::Blue);
-                    sf::Text text;
-                    text.setFont(_font);
-                    text.setString("SAVING");
-                    text.setCharacterSize(45);
-                    parser._config._width > parser._config._height ? text.setCharacterSize(0.07 * parser._config._height) : text.setCharacterSize(0.05 * parser._config._width);
-                    text.setPosition(parser._config._width/2 - textRect.width/2., parser._config._height/2 - textRect.height/2.);
-                    text.setFillColor(sf::Color::White);
-                    text.setStyle(sf::Text::Bold);
-                    _window.draw(text);
-                    _window.display();
 
                     if (!fs::is_directory("animation_output") || !fs::exists("animation_output"))  // Check if src folder exists
                         fs::create_directory("animation_output"); // create src folder
                     int i {};
                     for (const auto & frame : parser._frames) {
                         frame._image.saveToFile("animation_output/" + std::to_string(i) + ".bmp");
+                        process("SAVING", i, parser._config._framesAmount);
                         ++i;
                     }
-                    text.setString("SAVED!");
-                    _window.draw(text);
                     _window.display();
                 }
             }
@@ -159,5 +116,40 @@ void Animation::run() {
 
 }
 
+    void Animation::process (std::string name, unsigned how_many, unsigned how_many_all){
+
+        sf::Text text;
+        text.setFont(_font);
+        text.setCharacterSize(45);
+        int w = _window.getSize().x, h = _window.getSize().y;
+        w > h ? text.setCharacterSize(0.07 * h) : text.setCharacterSize(0.05 * w);
+
+        sf::FloatRect textRect = _text.getLocalBounds();
+        text.setPosition(w/2 - textRect.width/2., h/2 - textRect.height/2.);
+        text.setFillColor(sf::Color::White);
+        text.setStyle(sf::Text::Bold);
+        text.setString(name);
+
+        sf::RectangleShape strip;
+        sf::RectangleShape loading_strip;
+        strip.setPosition(w*0.1, h*0.7);
+        strip.setFillColor(sf::Color(15, 16, 17));
+        strip.setSize(sf::Vector2f(w*0.8, 50));
+
+        loading_strip.setPosition(w*0.1 + 2, h*0.7 + 2);
+        loading_strip.setFillColor(sf::Color(90, 255, 20));
+
+        _window.clear(sf::Color::Blue);
+        _window.draw(text);
+        _window.draw(strip);
+
+        loading_strip.setSize(sf::Vector2f(w*0.79 * how_many/how_many_all, 46));
+        _window.draw(loading_strip);
+
+        _window.display();
+
+    }
 }
+
+
 
