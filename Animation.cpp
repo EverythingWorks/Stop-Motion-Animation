@@ -35,38 +35,27 @@ void Animation::run() {
     sf::Event event;
     sf::Clock clock;
     auto it = parser._frames.begin();
-    bool is_loaded{false};
+    bool isLoaded {};
+    unsigned loadedFrames {1};
 
     while(_window.isOpen()) {
-        if (!is_loaded){
-            int i{};
-
-            while(parser.loadNextFrame()) {
-                process("LOADING", i, parser._config._framesAmount);
-                ++i;
-            }
-
-            is_loaded = true;
-            it = parser._frames.begin();
-        }
-
         while (_window.pollEvent(event)) {
             if(event.type == sf::Event::Closed)
                 _window.close();
             
             if (event.type == sf::Event::KeyPressed) {
-                if(event.key.code == sf::Keyboard::Space) {
+                if(isLoaded && event.key.code == sf::Keyboard::Space) {
                     _ctrl->isPlaying() = true;
                     clock.restart();
                 }
 
                 if (event.key.code == sf::Keyboard::Escape)
                     _window.close();
-                if (event.key.code == sf::Keyboard::Left)
+                if (isLoaded && event.key.code == sf::Keyboard::Left)
                     _ctrl->speedDown();
-                if (event.key.code == sf::Keyboard::Right)
+                if (isLoaded && event.key.code == sf::Keyboard::Right)
                     _ctrl->speedUp();
-                if(event.key.code == sf::Keyboard::S) {
+                if(isLoaded && event.key.code == sf::Keyboard::S) {
 
                     if (!fs::is_directory("animation_output") || !fs::exists("animation_output"))  // Check if src folder exists
                         fs::create_directory("animation_output"); // create src folder
@@ -81,7 +70,7 @@ void Animation::run() {
             }
         }
 
-        if (_ctrl->isPlaying()) {
+        if (isLoaded && _ctrl->isPlaying()) {
             if (it == parser._frames.end()) {
                 it = parser._frames.begin();
                 _ctrl->isPlaying() = false;
@@ -103,8 +92,17 @@ void Animation::run() {
             }
         }
 
-    
-        else {
+        else if (!isLoaded) {
+            if (parser.loadNextFrame()) 
+                ++loadedFrames;
+            
+            else {
+                isLoaded = true;
+                it = parser._frames.begin();
+            }
+            process("LOADING", loadedFrames, parser._config._framesAmount);
+        }    
+        else if (isLoaded && !_ctrl->isPlaying()) {
             _window.clear(sf::Color::Blue);
             _window.draw(_text);
             _window.display();
