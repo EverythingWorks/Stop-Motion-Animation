@@ -1,10 +1,212 @@
 800, 600, 138
-0, 100
+0, 700
+kw 15 17 103
+prostokat 0 0 800 800 1
+kw 219 219 219
+kolor_piora 219 219 219
+kl 100, 20 3 1
+kl 200, 100 3 1
+kl 300, 70 3 1
+kl 400, 120 3 1
+kl 500, 40 3 1
+kl 600, 20 3 1
+kl 700, 150 3 1
+kw 0 150 0
+prostokat 0 800 800 300 1
+stop
+0, 700
+kw 15 17 103
+prostokat 0 0 800 800 1
+kw 219 219 219
+kl 100, 20 3 1
+kl 200, 100 3 1
+kl 300, 70 3 1
+kl 400, 120 3 1
+kl 500, 40 3 1
+kl 600, 20 3 1
+kl 700, 150 3 1
+kw 0 150 0
+prostokat 0 800 800 300 1
+stop
+1, 400
+kw 0 0 110
+prostokat 0 0 800 800 1
+kw 219 219 219
+kl 100, 20 3 1
+kl 200, 100 3 1
+kl 300, 70 3 1
+kl 400, 120 3 1
+kl 500, 40 3 1
+kl 600, 20 3 1
+kl 700, 150 3 1
+kolor_wypelnienia 255 255 0
+kolo 350 295 50 1
+kolor_wypelnienia 0 150 0
+prostokat 0 800 800 300 1
+stop
+2, 200
+kolor_wypelnienia 0 0 140
+prostokat 0 0 800 800 1
+kw 219 219 219
+kl 100, 20 3 1
+kl 300, 70 3 1
+kl 500, 40 3 1
+kl 600, 20 3 1
+kolor_wypelnienia 255 255 0
+kolo 350 290 50 1
+kolor_wypelnienia 0 150 0
+prostokat 0 800 800 300 1
+stop
+3, 100
+kolor_wypelnienia 0 0 170
+prostokat 0 0 800 800 1
+kw 219 219 219
+kl 100, 20 3 1
+kl 300, 70 3 1
+kl 500, 40 3 1
+kl 600, 20 3 1
+kolor_wypelnienia 255 255 0
+kolo 350 280 50 1
+kolor_wypelnienia 0 160 0
+prostokat 0 800 800 300 1
+stop
+4, 100
+kolor_wypelnienia 0 0 200
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 270 50 1
+kolor_wypelnienia 0 160 0
+prostokat 0 800 800 300 1
+stop
+5, 100
+kolor_wypelnienia 0 0 250
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 260 50 1
+kolor_wypelnienia 0 170 0
+prostokat 0 800 800 300 1
+stop
+6, 100
+kolor_wypelnienia 0 50 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 245 50 1
+kolor_wypelnienia 0 170 0
+prostokat 0 800 800 300 1
+stop
+7, 50
+kolor_wypelnienia 0 70 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 240 50 1
+kolor_wypelnienia 0 180 0
+prostokat 0 800 800 300 1
+stop
+8, 50
+kolor_wypelnienia 0 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 0 80 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 235 50 1
+kolor_wypelnienia 0 180 0
+prostokat 0 800 800 300 1
+stop
+9, 60
+kolor_wypelnienia 10 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 225 50 1
+kolor_wypelnienia 0 190 0
+prostokat 0 800 800 300 1
+stop
+10,70
+kolor_wypelnienia 30 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 210 50 1
+kolor_wypelnienia 0 190 0
+prostokat 0 800 800 300 1
+stop
+11, 80
+kolor_wypelnienia 40 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 200 50 1
+kolor_wypelnienia 0 200 0
+prostokat 0 800 800 300 1
+stop
+12, 90
+kolor_wypelnienia 50 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 175 50 1
+kolor_wypelnienia 0 200 0
+prostokat 0 800 800 300 1
+stop
+13, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 145 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 800 800 300 1
+stop
+14, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 115 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 800 800 300 1
+stop
+15, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 100 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 800 800 300 1
+stop
+16, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 100 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 290 800 800 1
+stop
+17, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 100 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 260 800 800 1
+stop
+18, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 100 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 240 800 800 1
+stop
+19, 100
+kolor_wypelnienia 70 100 255
+prostokat 0 0 800 800 1
+kolor_wypelnienia 255 255 0
+kolo 350 100 50 1
+kolor_wypelnienia 0 210 0
+prostokat 0 220 800 800 1
+stop
+20, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -29,12 +231,13 @@ kolor_wypelnienia 102 184 212
 pr 4 286 22 299 1
 tr 22 286 58 299 22 299 1
 stop
-1, 100
+21, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -59,12 +262,13 @@ kolor_wypelnienia 102 184 212
 pr 17 286 35 299 1
 tr 35 286 71 299 35 299 1
 stop
-2, 100
+22, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -89,13 +293,14 @@ kolor_wypelnienia 102 184 212
 pr 30 286 48 299 1
 tr 48 286 84 299 48 299 1
 stop
-3, 100
+23, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
-prostokat 0 200 800 800 4
+prostokat 0 200 800 800 1
+prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
 kp 255 255 255
@@ -119,12 +324,13 @@ kolor_wypelnienia 102 184 212
 pr 43 286 61 299 1
 tr 61 286 97 299 61 299 1
 stop
-4, 100
+24, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -149,12 +355,13 @@ kolor_wypelnienia 102 184 212
 pr 56 286 74 299 1
 tr 74 286 110 299 74 299 1
 stop
-5, 100
+25, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -179,12 +386,13 @@ kolor_wypelnienia 102 184 212
 pr 69 286 87 299 1
 tr 87 286 123 299 87 299 1
 stop
-6, 100
+26, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -209,12 +417,13 @@ kolor_wypelnienia 102 184 212
 pr 82 286 100 299 1
 tr 100 286 136 299 100 299 1
 stop
-7, 100
+27, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -239,12 +448,13 @@ kolor_wypelnienia 102 184 212
 pr 95 286 113 299 1
 tr 113 286 149 299 113 299 1
 stop
-8, 100
+28, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -269,12 +479,13 @@ kolor_wypelnienia 102 184 212
 pr 108 286 126 299 1
 tr 126 286 162 299 126 299 1
 stop
-9, 100
+29, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -299,12 +510,13 @@ kolor_wypelnienia 102 184 212
 pr 121 286 139 299 1
 tr 139 286 175 299 139 299 1
 stop
-10, 100
+30, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -329,12 +541,13 @@ kolor_wypelnienia 102 184 212
 pr 134 286 152 299 1
 tr 152 286 188 299 152 299 1
 stop
-11, 100
+31, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -359,12 +572,13 @@ kolor_wypelnienia 102 184 212
 pr 147 286 165 299 1
 tr 165 286 201 299 165 299 1
 stop
-12, 100
+32, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -389,12 +603,13 @@ kolor_wypelnienia 102 184 212
 pr 160 286 178 299 1
 tr 178 286 214 299 178 299 1
 stop
-13, 100
+33, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -419,12 +634,13 @@ kolor_wypelnienia 102 184 212
 pr 173 286 191 299 1
 tr 191 286 227 299 191 299 1
 stop
-14, 100
+34, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -449,12 +665,13 @@ kolor_wypelnienia 102 184 212
 pr 186 286 204 299 1
 tr 204 286 240 299 204 299 1
 stop
-15, 100
+35, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -479,12 +696,13 @@ kolor_wypelnienia 102 184 212
 pr 199 286 217 299 1
 tr 217 286 253 299 217 299 1
 stop
-16, 100
+36, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -509,12 +727,13 @@ kolor_wypelnienia 102 184 212
 pr 212 286 230 299 1
 tr 230 286 266 299 230 299 1
 stop
-17, 100
+37, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -539,12 +758,13 @@ kolor_wypelnienia 102 184 212
 pr 225 286 243 299 1
 tr 243 286 279 299 243 299 1
 stop
-18, 100
+38, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -569,12 +789,13 @@ kolor_wypelnienia 102 184 212
 pr 238 286 256 299 1
 tr 256 286 292 299 256 299 1
 stop
-19, 100
+39, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -599,12 +820,13 @@ kolor_wypelnienia 102 184 212
 pr 251 286 269 299 1
 tr 269 286 305 299 269 299 1
 stop
-20, 100
+40, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -629,12 +851,13 @@ kolor_wypelnienia 102 184 212
 pr 264 286 282 299 1
 tr 282 286 318 299 282 299 1
 stop
-21, 100
+41, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -659,12 +882,13 @@ kolor_wypelnienia 102 184 212
 pr 277 286 295 299 1
 tr 295 286 331 299 295 299 1
 stop
-22, 100
+42, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -689,12 +913,13 @@ kolor_wypelnienia 102 184 212
 pr 290 286 308 299 1
 tr 308 286 344 299 308 299 1
 stop
-23, 100
+43, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -719,12 +944,13 @@ kolor_wypelnienia 102 184 212
 pr 303 286 321 299 1
 tr 321 286 357 299 321 299 1
 stop
-24, 100
+44, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -749,12 +975,13 @@ kolor_wypelnienia 102 184 212
 pr 316 286 334 299 1
 tr 334 286 370 299 334 299 1
 stop
-25, 100
+45, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -779,12 +1006,13 @@ kolor_wypelnienia 102 184 212
 pr 329 286 347 299 1
 tr 347 286 383 299 347 299 1
 stop
-26, 100
+46, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -809,12 +1037,13 @@ kolor_wypelnienia 102 184 212
 pr 342 286 360 299 1
 tr 360 286 396 299 360 299 1
 stop
-27, 100
+47, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -839,12 +1068,13 @@ kolor_wypelnienia 102 184 212
 pr 355 286 373 299 1
 tr 373 286 409 299 373 299 1
 stop
-28, 100
+48, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -869,12 +1099,13 @@ kolor_wypelnienia 102 184 212
 pr 368 286 386 299 1
 tr 386 286 422 299 386 299 1
 stop
-29, 100
+49, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -899,12 +1130,13 @@ kolor_wypelnienia 102 184 212
 pr 381 286 399 299 1
 tr 399 286 435 299 399 299 1
 stop
-30, 100
+50, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -929,12 +1161,13 @@ kolor_wypelnienia 102 184 212
 pr 394 286 412 299 1
 tr 412 286 448 299 412 299 1
 stop
-31, 100
+51, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -959,12 +1192,13 @@ kolor_wypelnienia 102 184 212
 pr 407 286 425 299 1
 tr 425 286 461 299 425 299 1
 stop
-32, 100
+52, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -989,12 +1223,13 @@ kolor_wypelnienia 102 184 212
 pr 420 286 438 299 1
 tr 438 286 474 299 438 299 1
 stop
-33, 100
+53, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1019,12 +1254,13 @@ kolor_wypelnienia 102 184 212
 pr 433 286 451 299 1
 tr 451 286 487 299 451 299 1
 stop
-34, 100
+54, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1049,12 +1285,13 @@ kolor_wypelnienia 102 184 212
 pr 446 286 464 299 1
 tr 464 286 500 299 464 299 1
 stop
-35, 100
+55, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1079,12 +1316,13 @@ kolor_wypelnienia 102 184 212
 pr 459 286 477 299 1
 tr 477 286 513 299 477 299 1
 stop
-36, 100
+56, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1109,12 +1347,13 @@ kolor_wypelnienia 102 184 212
 pr 472 286 490 299 1
 tr 490 286 526 299 490 299 1
 stop
-37, 100
+57, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1139,12 +1378,13 @@ kolor_wypelnienia 102 184 212
 pr 485 286 503 299 1
 tr 503 286 539 299 503 299 1
 stop
-38, 100
+58, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1169,12 +1409,13 @@ kolor_wypelnienia 102 184 212
 pr 498 286 516 299 1
 tr 516 286 552 299 516 299 1
 stop
-39, 100
+59, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1199,12 +1440,13 @@ kolor_wypelnienia 102 184 212
 pr 511 286 529 299 1
 tr 529 286 565 299 529 299 1
 stop
-40, 100
+60, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1229,12 +1471,13 @@ kolor_wypelnienia 102 184 212
 pr 524 286 542 299 1
 tr 542 286 578 299 542 299 1
 stop
-41, 100
+61, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1259,12 +1502,13 @@ kolor_wypelnienia 102 184 212
 pr 537 286 555 299 1
 tr 555 286 591 299 555 299 1
 stop
-42, 100
+62, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1289,12 +1533,13 @@ kolor_wypelnienia 102 184 212
 pr 550 286 568 299 1
 tr 568 286 604 299 568 299 1
 stop
-43, 100
+63, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1319,12 +1564,13 @@ kolor_wypelnienia 102 184 212
 pr 563 286 581 299 1
 tr 581 286 617 299 581 299 1
 stop
-44, 100
+64, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1349,12 +1595,13 @@ kolor_wypelnienia 102 184 212
 pr 576 286 594 299 1
 tr 594 286 630 299 594 299 1
 stop
-45, 100
+65, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1379,12 +1626,13 @@ kolor_wypelnienia 102 184 212
 pr 589 286 607 299 1
 tr 607 286 643 299 607 299 1
 stop
-46, 100
+66, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1409,12 +1657,13 @@ kolor_wypelnienia 102 184 212
 pr 602 286 620 299 1
 tr 620 286 656 299 620 299 1
 stop
-47, 100
+67, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1439,12 +1688,13 @@ kolor_wypelnienia 102 184 212
 pr 615 286 633 299 1
 tr 633 286 669 299 633 299 1
 stop
-48, 100
+68, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1469,12 +1719,13 @@ kolor_wypelnienia 102 184 212
 pr 628 286 646 299 1
 tr 646 286 682 299 646 299 1
 stop
-49, 100
+69, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1499,12 +1750,13 @@ kolor_wypelnienia 102 184 212
 pr 641 286 659 299 1
 tr 659 286 695 299 659 299 1
 stop
-50, 100
+70, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1529,12 +1781,13 @@ kolor_wypelnienia 102 184 212
 pr 654 286 672 299 1
 tr 672 286 708 299 672 299 1
 stop
-51, 100
+71, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1559,12 +1812,13 @@ kolor_wypelnienia 102 184 212
 pr 667 286 685 299 1
 tr 685 286 721 299 685 299 1
 stop
-52, 100
+72, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1589,12 +1843,13 @@ kolor_wypelnienia 102 184 212
 pr 680 286 698 299 1
 tr 698 286 734 299 698 299 1
 stop
-53, 100
+73, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1619,12 +1874,13 @@ kolor_wypelnienia 102 184 212
 pr 693 286 711 299 1
 tr 711 286 747 299 711 299 1
 stop
-54, 100
+74, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1649,12 +1905,13 @@ kolor_wypelnienia 102 184 212
 pr 706 286 724 299 1
 tr 724 286 760 299 724 299 1
 stop
-55, 100
+75, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1679,12 +1936,13 @@ kolor_wypelnienia 102 184 212
 pr 719 286 737 299 1
 tr 737 286 773 299 737 299 1
 stop
-56, 100
+76, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1709,12 +1967,13 @@ kolor_wypelnienia 102 184 212
 pr 732 286 750 299 1
 tr 750 286 786 299 750 299 1
 stop
-57, 100
+77, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1739,12 +1998,13 @@ kolor_wypelnienia 102 184 212
 pr 745 286 763 299 1
 tr 763 286 799 299 763 299 1
 stop
-58, 100
+78, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1769,12 +2029,13 @@ kolor_wypelnienia 102 184 212
 pr 758 286 776 299 1
 tr 776 286 812 299 776 299 1
 stop
-59, 100
+79, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1799,12 +2060,13 @@ kolor_wypelnienia 102 184 212
 pr 771 286 789 299 1
 tr 789 286 825 299 789 299 1
 stop
-60, 100
+80, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1829,12 +2091,13 @@ kolor_wypelnienia 102 184 212
 pr 784 286 802 299 1
 tr 802 286 838 299 802 299 1
 stop
-61, 100
+81, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1859,12 +2122,13 @@ kolor_wypelnienia 102 184 212
 pr 797 286 815 299 1
 tr 815 286 851 299 815 299 1
 stop
-62, 100
+82, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1889,12 +2153,13 @@ kolor_wypelnienia 102 184 212
 pr 810 286 828 299 1
 tr 828 286 864 299 828 299 1
 stop
-63, 100
+83, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1919,12 +2184,13 @@ kolor_wypelnienia 102 184 212
 pr 823 286 841 299 1
 tr 841 286 877 299 841 299 1
 stop
-64, 100
+84, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1949,12 +2215,13 @@ kolor_wypelnienia 102 184 212
 pr 836 286 854 299 1
 tr 854 286 890 299 854 299 1
 stop
-65, 100
+85, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -1979,12 +2246,13 @@ kolor_wypelnienia 102 184 212
 pr 849 286 867 299 1
 tr 867 286 903 299 867 299 1
 stop
-66, 100
+86, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2009,12 +2277,13 @@ kolor_wypelnienia 102 184 212
 pr 862 286 880 299 1
 tr 880 286 916 299 880 299 1
 stop
-67, 100
+87, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2039,12 +2308,13 @@ kolor_wypelnienia 102 184 212
 pr 875 286 893 299 1
 tr 893 286 929 299 893 299 1
 stop
-68, 100
+88, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2069,12 +2339,13 @@ kolor_wypelnienia 102 184 212
 pr 888 286 906 299 1
 tr 906 286 942 299 906 299 1
 stop
-69, 100
+89, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2099,12 +2370,13 @@ kolor_wypelnienia 102 184 212
 pr 901 286 919 299 1
 tr 919 286 955 299 919 299 1
 stop
-70, 100
+90, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2129,12 +2401,13 @@ kolor_wypelnienia 102 184 212
 pr 914 286 932 299 1
 tr 932 286 968 299 932 299 1
 stop
-71, 100
+91, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2159,12 +2432,13 @@ kolor_wypelnienia 102 184 212
 pr 927 286 945 299 1
 tr 945 286 981 299 945 299 1
 stop
-72, 100
+92, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2189,12 +2463,13 @@ kolor_wypelnienia 102 184 212
 pr 940 286 958 299 1
 tr 958 286 994 299 958 299 1
 stop
-73, 100
+93, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2219,12 +2494,13 @@ kolor_wypelnienia 102 184 212
 pr 953 286 971 299 1
 tr 971 286 1007 299 971 299 1
 stop
-74, 100
+94, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2249,12 +2525,13 @@ kolor_wypelnienia 102 184 212
 pr 966 286 984 299 1
 tr 984 286 1020 299 984 299 1
 stop
-75, 100
+95, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2279,12 +2556,13 @@ kolor_wypelnienia 102 184 212
 pr 979 286 997 299 1
 tr 997 286 1033 299 997 299 1
 stop
-76, 100
+96, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2309,12 +2587,13 @@ kolor_wypelnienia 102 184 212
 pr 992 286 1010 299 1
 tr 1010 286 1046 299 1010 299 1
 stop
-77, 100
+97, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2339,12 +2618,13 @@ kolor_wypelnienia 102 184 212
 pr 1005 286 1023 299 1
 tr 1023 286 1059 299 1023 299 1
 stop
-78, 100
+98, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2369,12 +2649,13 @@ kolor_wypelnienia 102 184 212
 pr 1018 286 1036 299 1
 tr 1036 286 1072 299 1036 299 1
 stop
-79, 100
+99, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2399,12 +2680,15 @@ kolor_wypelnienia 102 184 212
 pr 1031 286 1049 299 1
 tr 1049 286 1085 299 1049 299 1
 stop
-80, 100
+100, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2444,12 +2728,15 @@ kolor_wypelnienia 102 184 212
 pr 21 286 39 299 1
 tr 39 286 75 299 39 299 1
 stop
-81, 100
+101, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2489,12 +2776,15 @@ kolor_wypelnienia 102 184 212
 pr 31 286 49 299 1
 tr 49 286 85 299 49 299 1
 stop
-82, 100
+102, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2534,12 +2824,15 @@ kolor_wypelnienia 102 184 212
 pr 41 286 59 299 1
 tr 59 286 95 299 59 299 1
 stop
-83, 100
+103, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2579,12 +2872,15 @@ kolor_wypelnienia 102 184 212
 pr 51 286 69 299 1
 tr 69 286 105 299 69 299 1
 stop
-84, 100
+104, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2624,12 +2920,15 @@ kolor_wypelnienia 102 184 212
 pr 61 286 79 299 1
 tr 79 286 115 299 79 299 1
 stop
-85, 100
+105, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2669,12 +2968,15 @@ kolor_wypelnienia 102 184 212
 pr 71 286 89 299 1
 tr 89 286 125 299 89 299 1
 stop
-86, 100
+106, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2714,12 +3016,15 @@ kolor_wypelnienia 102 184 212
 pr 81 286 99 299 1
 tr 99 286 135 299 99 299 1
 stop
-87, 100
+107, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2759,12 +3064,15 @@ kolor_wypelnienia 102 184 212
 pr 91 286 109 299 1
 tr 109 286 145 299 109 299 1
 stop
-88, 100
+108, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2804,12 +3112,15 @@ kolor_wypelnienia 102 184 212
 pr 101 286 119 299 1
 tr 119 286 155 299 119 299 1
 stop
-89, 100
+109, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2849,12 +3160,15 @@ kolor_wypelnienia 102 184 212
 pr 111 286 129 299 1
 tr 129 286 165 299 129 299 1
 stop
-90, 100
+110, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2894,12 +3208,15 @@ kolor_wypelnienia 102 184 212
 pr 121 286 139 299 1
 tr 139 286 175 299 139 299 1
 stop
-91, 100
+111, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2939,12 +3256,15 @@ kolor_wypelnienia 102 184 212
 pr 131 286 149 299 1
 tr 149 286 185 299 149 299 1
 stop
-92, 100
+112, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -2984,12 +3304,15 @@ kolor_wypelnienia 102 184 212
 pr 141 286 159 299 1
 tr 159 286 195 299 159 299 1
 stop
-93, 100
+113, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3029,12 +3352,15 @@ kolor_wypelnienia 102 184 212
 pr 151 286 169 299 1
 tr 169 286 205 299 169 299 1
 stop
-94, 100
+114, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3074,12 +3400,15 @@ kolor_wypelnienia 102 184 212
 pr 161 286 179 299 1
 tr 179 286 215 299 179 299 1
 stop
-95, 100
+115, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3119,12 +3448,15 @@ kolor_wypelnienia 102 184 212
 pr 171 286 189 299 1
 tr 189 286 225 299 189 299 1
 stop
-96, 100
+116, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3164,12 +3496,15 @@ kolor_wypelnienia 102 184 212
 pr 181 286 199 299 1
 tr 199 286 235 299 199 299 1
 stop
-97, 100
+117, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3209,12 +3544,15 @@ kolor_wypelnienia 102 184 212
 pr 191 286 209 299 1
 tr 209 286 245 299 209 299 1
 stop
-98, 100
+118, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3254,12 +3592,15 @@ kolor_wypelnienia 102 184 212
 pr 201 286 219 299 1
 tr 219 286 255 299 219 299 1
 stop
-99, 100
+119, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3299,12 +3640,15 @@ kolor_wypelnienia 102 184 212
 pr 211 286 229 299 1
 tr 229 286 265 299 229 299 1
 stop
-100, 100
+120, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3344,12 +3688,15 @@ kolor_wypelnienia 102 184 212
 pr 221 286 239 299 1
 tr 239 286 275 299 239 299 1
 stop
-101, 100
+121, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3389,12 +3736,15 @@ kolor_wypelnienia 102 184 212
 pr 231 286 249 299 1
 tr 249 286 285 299 249 299 1
 stop
-102, 100
+122, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3434,12 +3784,15 @@ kolor_wypelnienia 102 184 212
 pr 241 286 259 299 1
 tr 259 286 295 299 259 299 1
 stop
-103, 100
+123, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3479,12 +3832,15 @@ kolor_wypelnienia 102 184 212
 pr 251 286 269 299 1
 tr 269 286 305 299 269 299 1
 stop
-104, 100
+124, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3524,12 +3880,15 @@ kolor_wypelnienia 102 184 212
 pr 261 286 279 299 1
 tr 279 286 315 299 279 299 1
 stop
-105, 100
+125, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3569,12 +3928,15 @@ kolor_wypelnienia 102 184 212
 pr 271 286 289 299 1
 tr 289 286 325 299 289 299 1
 stop
-106, 100
+126, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3614,12 +3976,15 @@ kolor_wypelnienia 102 184 212
 pr 281 286 299 299 1
 tr 299 286 335 299 299 299 1
 stop
-107, 100
+127, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3659,12 +4024,15 @@ kolor_wypelnienia 102 184 212
 pr 291 286 309 299 1
 tr 309 286 345 299 309 299 1
 stop
-108, 100
+128, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3704,12 +4072,15 @@ kolor_wypelnienia 102 184 212
 pr 301 286 319 299 1
 tr 319 286 355 299 319 299 1
 stop
-109, 100
+129, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3749,12 +4120,15 @@ kolor_wypelnienia 102 184 212
 pr 311 286 329 299 1
 tr 329 286 365 299 329 299 1
 stop
-110, 100
+130, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3794,12 +4168,15 @@ kolor_wypelnienia 102 184 212
 pr 321 286 339 299 1
 tr 339 286 375 299 339 299 1
 stop
-111, 100
+131, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3839,12 +4216,15 @@ kolor_wypelnienia 102 184 212
 pr 331 286 349 299 1
 tr 349 286 385 299 349 299 1
 stop
-112, 100
+132, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
 prostokat 0 200 800 800 1
 kw 57 60 66
 pr 0 250 800 335 1
@@ -3884,13 +4264,21 @@ kolor_wypelnienia 102 184 212
 pr 341 286 359 299 1
 tr 359 286 395 299 359 299 1
 stop
-113, 100
+133, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+prostokat 0 200 800 800 1
+kw 57 60 66
+pr 0 250 800 335 1
+kp 255 255 255
+ln 0 255 800 255
+ln 0 330 800 330
 kolor_wypelnienia 250 0 62
 pr 390 300 470 320 1
 pr 430 285 450 300 1
@@ -3924,13 +4312,21 @@ kolor_wypelnienia 102 184 212
 pr 351 286 369 299 1
 tr 369 286 405 299 369 299 1
 stop
-114, 100
+134, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+prostokat 0 200 800 800 1
+kw 57 60 66
+pr 0 250 800 335 1
+kp 255 255 255
+ln 0 255 800 255
+ln 0 330 800 330
 kolor_wypelnienia 250 0 62
 pr 380 300 460 320 1
 pr 420 285 440 300 1
@@ -3964,13 +4360,21 @@ kolor_wypelnienia 102 184 212
 pr 361 286 379 299 1
 tr 379 286 415 299 379 299 1
 stop
-115, 100
+135, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+prostokat 0 200 800 800 1
+kw 57 60 66
+pr 0 250 800 335 1
+kp 255 255 255
+ln 0 255 800 255
+ln 0 330 800 330
 kolor_wypelnienia 250 0 62
 pr 370 300 450 320 1
 pr 410 285 430 300 1
@@ -4004,13 +4408,21 @@ kolor_wypelnienia 102 184 212
 pr 371 286 389 299 1
 tr 389 286 425 299 389 299 1
 stop
-116, 100
+136, 100
 kolor_wypelnienia 70 100 255
 prostokat 0 0 800 800 1
 kolor_wypelnienia 255 255 0
 kolo 320 60 50 1
 kolor_wypelnienia 0 210 0
 prostokat 0 200 800 800 1
+kolor_wypelnienia 0 210 0
+prostokat 0 200 800 800 1
+prostokat 0 200 800 800 1
+kw 57 60 66
+pr 0 250 800 335 1
+kp 255 255 255
+ln 0 255 800 255
+ln 0 330 800 330
 kolor_wypelnienia 250 0 62
 pr 360 300 440 320 1
 pr 400 285 420 300 1
@@ -4044,88 +4456,87 @@ kolor_wypelnienia 102 184 212
 pr 381 286 399 299 1
 tr 399 286 435 299 399 299 1
 stop
-117, 100
+137, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-118, 100
+138, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-119, 100
+139, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-120, 100
+140, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-121, 100
+141, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-122, 100
+142, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-123, 100
+143, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-124, 100
+144, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-125, 100
+145, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-126, 100
+146, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-127, 100
+147, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-128, 100
+148, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-129, 100
+149, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-130, 100
+150, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-131, 100
+151, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-132, 100
+152, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-133, 100
+153, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-134, 100
+154, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-135, 100
+155, 100
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
 stop
-136, 100
+156, 100
 kolor_wypelnienia 200 200 0
 prostokat 0 0 800 800 1
 stop
-137,  700
+157,  1000
 kolor_wypelnienia 200 0 0
 prostokat 0 0 800 800 1
-ob 100 100 bang.png
-stop
+obraz 100 100 ./bang.png

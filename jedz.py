@@ -3,7 +3,7 @@ licz = 50
 krok = 13
 krok_sl = -10
 poz_sl = 440
-frame = 0
+frame = 20
 poz_l = - 30
 poz_p_one=0
 for i in range(80):
@@ -15,6 +15,12 @@ kolor_wypelnienia 255 255 0\n\
 kolo 320 60 50 1\n\
 kolor_wypelnienia 0 210 0\n\
 prostokat 0 200 800 800 1\n\
+prostokat 0 200 800 800 1\n\
+kw 57 60 66\n\
+pr 0 250 800 335 1\n\
+kp 255 255 255\n\
+ln 0 255 800 255\n\
+ln 0 330 800 330\n\
 kolor_wypelnienia 200 0 0\n".format(frame))
     poz_l += krok
     poz_p_one += krok
@@ -103,7 +109,15 @@ prostokat 0 0 800 800 1\n\
 kolor_wypelnienia 255 255 0\n\
 kolo 320 60 50 1\n\
 kolor_wypelnienia 0 210 0\n\
-prostokat 0 200 800 800 1\n".format(frame))
+prostokat 0 200 800 800 1\n\
+kolor_wypelnienia 0 210 0\n\
+prostokat 0 200 800 800 1\n\
+prostokat 0 200 800 800 1\n\
+kw 57 60 66\n\
+pr 0 250 800 335 1\n\
+kp 255 255 255\n\
+ln 0 255 800 255\n\
+ln 0 330 800 330\n".format(frame))
     fp.write("kolor_wypelnienia 250 0 62\n\
 pr {0} 300 {1} 320 1\n\
 pr {2} 285 {3} 300 1\n\
@@ -157,4 +171,4 @@ prostokat 0 0 800 800 1\nstop\n".format(frame))
 fp.write("{},  1000\n\
 kolor_wypelnienia 200 0 0\n\
 prostokat 0 0 800 800 1\n\
-obraz 100 100 ./bang.png")
+obraz 100 100 ./bang.png".format(frame))
